@@ -18,3 +18,13 @@
 * Construir un modelo de clasificación.
 * Determinar las métricas de los modelos de clasificación.
 * Establecer la selección del modelo basado en métricas y gráficas.
+### Sesión 1
+* Entender el procesamiento de Datos no Estructurados.
+* Establecer procesos y automatizaciones en limpieza de textos.
+* Realizar clasificadores Naive Bayes y Ensemblers.
+
+## Laboratorio 3
+### Sesión 1
+*   Aprender los conceptos básicos de una Red Neuronal.
+*   Realizar la carga de imágenes para entrenar una Red Neuronal.
+*   Entonar los hiperparámentros de una Red Neuronal.
