@@ -28,3 +28,9 @@
 *   Aprender los conceptos básicos de una Red Neuronal.
 *   Realizar la carga de imágenes para entrenar una Red Neuronal.
 *   Entonar los hiperparámentros de una Red Neuronal.
+
+## Laboratorio 4
+### Sesión 1
+*   Aplicar las técnicas vistas de procesamiento de textos.
+*   Realizar el entrenamiento de un modelo no supervisado.
+*   Interpretar los resultados de un modelo de agrupación.
