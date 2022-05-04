@@ -34,3 +34,7 @@
 *   Aplicar las técnicas vistas de procesamiento de textos.
 *   Realizar el entrenamiento de un modelo no supervisado.
 *   Interpretar los resultados de un modelo de agrupación.
+### Sesión 2
+*   Resolver un problema de detección de anomalías.
+*   Realizar el entrenamiento de una sola clase.
+*   Analizar la Arquitectura de los AutoEncoders.
